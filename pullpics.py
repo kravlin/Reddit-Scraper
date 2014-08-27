@@ -10,7 +10,7 @@ import urllib
 
 #set basic information up
 path="/srv/http/pictures/"
-subreddit="clopclop"
+subreddit="earthporn"
 files = {}
 stillup = {}
 stories = []
